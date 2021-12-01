@@ -1,0 +1,4 @@
+#square of function using lambda function
+f = lambda a : a*a
+square = f(5)
+print(square)
